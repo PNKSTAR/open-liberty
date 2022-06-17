@@ -1,4 +1,4 @@
-<!-- PROJECT LOGO -->
+<!-- PROJECT -->
 
 <p align="center">
   <a href="https://openliberty.io/">
